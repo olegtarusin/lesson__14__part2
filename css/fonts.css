@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "Zero";
+    src: url('../fonts/ZeroZeroIs.woff2') format('woff2'), url('../fonts/ZeroZeroIs.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "1942report";
+    src: url('../fonts/1942report.woff2') format('woff2'), url('../fonts/1942report.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
